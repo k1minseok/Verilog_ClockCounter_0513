@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../0513HW_CounterClockSwitch.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/FNDContorller.v" \
+"../../../../0513HW_CounterClockSwitch.srcs/sources_1/imports/new/clock.v" \
+"../../../../0513HW_CounterClockSwitch.srcs/sources_1/imports/sources_1/new/counter10k.v" \
+"../../../../0513HW_CounterClockSwitch.srcs/sources_1/new/mux21.v" \
+"../../../../0513HW_CounterClockSwitch.srcs/sources_1/new/topModule.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

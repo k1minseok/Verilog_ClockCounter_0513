@@ -1,0 +1,10 @@
+0.7
+2020.2
+Nov 18 2020
+09:20:35
+/home/k1minseok/study/vivado/0513HW_CounterClockSwitch/0513HW_CounterClockSwitch.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+/home/k1minseok/study/vivado/0513HW_CounterClockSwitch/0513HW_CounterClockSwitch.srcs/sources_1/imports/new/clock.v,1715585581,verilog,,/home/k1minseok/study/vivado/0513HW_CounterClockSwitch/0513HW_CounterClockSwitch.srcs/sources_1/imports/sources_1/new/counter10k.v,,clock,,,,,,,,
+/home/k1minseok/study/vivado/0513HW_CounterClockSwitch/0513HW_CounterClockSwitch.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/FNDContorller.v,1715586651,verilog,,/home/k1minseok/study/vivado/0513HW_CounterClockSwitch/0513HW_CounterClockSwitch.srcs/sources_1/imports/new/clock.v,,Adder_Decoder;BCDtoSEG;clkDiv;counter;digitSplitter;fndContorller;mux,,,,,,,,
+/home/k1minseok/study/vivado/0513HW_CounterClockSwitch/0513HW_CounterClockSwitch.srcs/sources_1/imports/sources_1/new/counter10k.v,1715585012,verilog,,/home/k1minseok/study/vivado/0513HW_CounterClockSwitch/0513HW_CounterClockSwitch.srcs/sources_1/new/mux21.v,,UpCounter_10k,,,,,,,,
+/home/k1minseok/study/vivado/0513HW_CounterClockSwitch/0513HW_CounterClockSwitch.srcs/sources_1/new/mux21.v,1715586301,verilog,,/home/k1minseok/study/vivado/0513HW_CounterClockSwitch/0513HW_CounterClockSwitch.srcs/sources_1/new/topModule.v,,mux21,,,,,,,,
+/home/k1minseok/study/vivado/0513HW_CounterClockSwitch/0513HW_CounterClockSwitch.srcs/sources_1/new/topModule.v,1715586951,verilog,,,,topModule,,,,,,,,

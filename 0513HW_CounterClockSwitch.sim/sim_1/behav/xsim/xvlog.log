@@ -1,0 +1,18 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/k1minseok/study/vivado/0513HW_CounterClockSwitch/0513HW_CounterClockSwitch.srcs/sources_1/imports/sources_1/imports/sources_1/imports/new/FNDContorller.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fndContorller
+INFO: [VRFC 10-311] analyzing module digitSplitter
+INFO: [VRFC 10-311] analyzing module mux
+INFO: [VRFC 10-311] analyzing module BCDtoSEG
+INFO: [VRFC 10-311] analyzing module Adder_Decoder
+INFO: [VRFC 10-311] analyzing module counter
+INFO: [VRFC 10-311] analyzing module clkDiv
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/k1minseok/study/vivado/0513HW_CounterClockSwitch/0513HW_CounterClockSwitch.srcs/sources_1/imports/new/clock.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clock
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/k1minseok/study/vivado/0513HW_CounterClockSwitch/0513HW_CounterClockSwitch.srcs/sources_1/imports/sources_1/new/counter10k.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module UpCounter_10k
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/k1minseok/study/vivado/0513HW_CounterClockSwitch/0513HW_CounterClockSwitch.srcs/sources_1/new/mux21.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux21
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/k1minseok/study/vivado/0513HW_CounterClockSwitch/0513HW_CounterClockSwitch.srcs/sources_1/new/topModule.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module topModule
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/k1minseok/study/vivado/0513HW_CounterClockSwitch/0513HW_CounterClockSwitch.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
